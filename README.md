@@ -1,4 +1,4 @@
-<h1 style="font-weight:bold;" align="center">Hola mundo 👋 Soy MrMikeDev y no chambeo</h1>
+<h1 style="font-weight:bold;" align="center">Hola mundo 👋 Soy MrMikeDev</h1>
 <h3 align="center">
     Frontend Developer ⚛️ | JavaScript & TypeScript Developer 💙 | Discord Bot Developer 🤖
 </h3>
