@@ -1,11 +1,11 @@
-<h1 style="font-weight:bold;" align="center">Hola mundo 👋 Soy MrMikeDev y no chambeo</h1>
+<h1 style="font-weight:bold;" align="center">Hola mundo 👋 Soy MrMikeDev</h1>
 <h3 align="center">
     Frontend Developer ⚛️ | JavaScript & TypeScript Developer 💙 | Discord Bot Developer 🤖
 </h3>
 
 # 💫 Sobre mí:
 
-- 🌎 Joven de 19 años, orgullosamente mexicano.
+- 🌎 Joven de 20 años, orgullosamente mexicano.
 - ⚛️ Desarrollador web frontend especializado en crear interfaces de usuario accesibles e intuitivas.
 - 🧑‍🎓 Estudiante universitario de Ingeniería en Computación.
 - 🤖 Apasionado por el desarrollo de bots para Discord y considerado experto en el tema.
